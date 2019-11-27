@@ -1,0 +1,11 @@
+h1{
+    color:red;
+    font-size:3.2em;
+}
+body{
+    background-image: url(piyixia/piyixia.jpg);
+}
+a:link{
+    text-decoration-color: red;
+    text-decoration-line: none;
+}
