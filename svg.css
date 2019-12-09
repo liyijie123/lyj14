@@ -1,0 +1,13 @@
+a{
+    color:blue;
+}
+svg{
+    height: 19px;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 80px;
+    max-width: 80px;
+    width: 19px;
+    fill: currentColor;
+    display: inline-block;
+}

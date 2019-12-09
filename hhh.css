@@ -5,7 +5,21 @@ h1{
 body{
     background-image: url(piyixia/piyixia.jpg);
 }
-a:link{
+a{
+    position:relative;
+    left:20px;
+    top:300px;
+}
+a:hover{
     text-decoration-color: red;
     text-decoration-line: none;
+    animation: hyx 20s linear forwards;
+    position:relative;
+    left:20px;
+    top:300px;
+}    
+@keyframes lyj {
+    from{left:10px;top:20px}
+    15%{left:30px;top:30px;}
+    to{left:596px;top:-2036px;}
 }
